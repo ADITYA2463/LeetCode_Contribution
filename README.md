@@ -17,6 +17,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
