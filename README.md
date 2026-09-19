@@ -7,6 +7,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -42,4 +44,8 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
