@@ -9,6 +9,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 | [0001-two-sum](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -55,12 +56,15 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
