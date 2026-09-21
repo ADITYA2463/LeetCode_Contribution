@@ -39,7 +39,7 @@ class Solution {
                 cnt++;
             }
 
-            while(cnt > k && l <= r)
+            if(cnt > k && l <= r)
             {
                 if(nums[l] == 0)
                 {
