@@ -20,6 +20,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 | [0138-copy-list-with-random-pointer](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0904-fruit-into-baskets](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -76,4 +78,5 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
