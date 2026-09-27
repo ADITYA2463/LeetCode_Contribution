@@ -84,4 +84,20 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
