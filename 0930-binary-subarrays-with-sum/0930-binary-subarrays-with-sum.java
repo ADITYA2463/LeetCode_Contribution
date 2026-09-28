@@ -28,13 +28,13 @@ class Solution {
         {
             sum = sum + nums[r];
 
-            while(sum > goal - 1 && l <= r)
+            while(sum >= goal  && l <= r)
             {
                 sum = sum - nums[l];
                 l++;
             }
 
-            if(sum <= goal - 1)
+            if(sum < goal )
             {
                 resForKminus1 = resForKminus1 + (r - l + 1);
             }
