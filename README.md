@@ -9,6 +9,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 | [0001-two-sum](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0875-koko-eating-bananas) |
@@ -69,6 +70,7 @@ Motivation is temporary, but discipline is permanent. Daily LeetCode until I cra
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ADITYA2463/LeetCode_Contribution/tree/master/1004-max-consecutive-ones-iii) |
